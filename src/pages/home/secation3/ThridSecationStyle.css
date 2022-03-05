@@ -1,0 +1,122 @@
+
+.paragraph10{
+    width:70%;
+    text-align: center;
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 30px 0px;
+    
+}
+.adnan{
+    display: flex;
+    justify-content: center;
+}
+.line2{
+    border:2px dotted black;
+    width:50%;
+}
+.display3{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.paragraph11{
+    font-family: New York Small;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    width:50%;
+}
+.image2{
+    width:100%
+}
+.paragraph12{
+font-family: New York Extra Large;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 73px;
+}
+
+.image3{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.paragraph13{
+    font-family: SF Pro Display;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 30px 50px;
+}
+.paragraph14{
+    font-family: New York Extra Large;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 62px;
+}
+.paragraph15{
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 18px;
+}
+
+
+ .gujjar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+.line3{
+    border: 5px ;
+    border-left:1px;
+    border-right:1px;
+    border-bottom:1px;
+    border:solid black;
+    width:50% ;
+}
+.adnan1{
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+}
+.Border{
+    border: 1px solid #dee2e6;
+    width:50% ;
+    text-align: center;
+}
+.Button{
+    width: 150px;
+    height: 30px;
+    border: none;
+}
+.Button:hover{
+    background-color:black ;
+    color:white;
+}
